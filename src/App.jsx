@@ -1,8 +1,15 @@
+import Home from "./Navbar";
+import Middle from "./Partners";
+import React from "react";
+
 function App(){
   return(
 
-    <div>
-      
-    </div>
+    <body>
+    <Home/>
+    <Middle/>
+    </body>
   );
 }
+;
+export default App;

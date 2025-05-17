@@ -1,0 +1,40 @@
+#high{
+
+    width: 140px;
+    height: 30px;
+    font-weight: bold;
+    color: rgb(201, 157, 76);
+    background-color: rgba(250, 230, 193, 0.892);
+    border: none;
+    border-radius: 7px;
+    margin-top: 100px;
+    margin-left: 5px;
+}
+
+.photos{
+
+    margin-left: 70px;
+   
+}
+
+#simple{
+
+    color: black;
+    font-size: 40px;
+
+}
+
+#simplify, .grow{
+
+    color: rgb(201, 157, 76);
+    font-size: 40px;
+
+
+}
+
+#p{
+
+    font-weight: bold;
+    font-size: 40px;
+}
+
