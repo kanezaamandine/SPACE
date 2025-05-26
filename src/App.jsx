@@ -1,5 +1,4 @@
 import Home from "./Navbar";
-import Middle from "./Partners";
 import React from "react";
 
 function App(){
@@ -7,7 +6,6 @@ function App(){
 
     <body>
     <Home/>
-    <Middle/>
     </body>
   );
 }
