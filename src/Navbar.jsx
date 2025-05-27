@@ -1,5 +1,6 @@
 
-import "./navbar.css"
+import "./navbar.css";
+import ass from './ff.png';
 
 function Home() {
   return (
@@ -51,7 +52,7 @@ function Home() {
           <div className="hero-right">
             <div className="astronaut-container">
               <div className="background-circle"></div>
-              <img src="/astronaut.png" alt="Astronaut" className="astronaut-image" />
+              <img src={ass} alt="Astronaut" className="astronaut-image" />
             </div>
           </div>
         </div>
